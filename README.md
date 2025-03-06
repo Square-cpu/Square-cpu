@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a backend and frontend developer looking to create great tools for people to use.
+
 <!--
 **Square-cpu/Square-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
